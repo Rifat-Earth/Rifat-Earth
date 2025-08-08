@@ -13,6 +13,14 @@
 ## 🚀 Skills
 React | Tailwind CSS | JavaScript | Node.js | Firebase | MongoDB
 
+## Current Activities: 
+
+1. Exploring next.js
+2. Exploring typescript
+
+## Languages used
+Bangli,English
+
 ## 🔗 Connect with me
 ## Email: rifathasan01915@gmail.com
 ## WhatsApp: +8801915976493
