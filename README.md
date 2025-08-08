@@ -1,5 +1,8 @@
 
-<img width="1584" height="396" alt="Black And Grey Professional Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/fc0c197a-9071-43d0-bdf6-347575d66a41" />
+<img width="1584" height="396" alt="Black And Grey Professional Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/54ff274e-8b8a-48ee-b34a-7746055f265d" />
+
+
+
 
 👋 Hi, I'm Rifat 
 
