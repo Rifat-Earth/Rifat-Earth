@@ -8,4 +8,6 @@
 React | Tailwind CSS | JavaScript | Node.js | Firebase | MongoDB
 
 ## 🔗 Connect with me
+Email:rifathasan01915@gmail.com
+WhatsApp: +8801915976493
 
