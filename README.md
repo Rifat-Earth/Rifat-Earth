@@ -1,6 +1,5 @@
 
-https://www.canva.com/design/DAGvevvRojQ/ZtnVuRlEx55DaXL4wWfNdg/edit?utm_content=DAGvevvRojQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+<img width="1584" height="396" alt="Black And Grey Professional Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/fc0c197a-9071-43d0-bdf6-347575d66a41" />
 
 👋 Hi, I'm Rifat 
 
